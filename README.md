@@ -21,9 +21,9 @@ Quer fazer parte? Tem alguma dúvida? Confira os projetos em andamento ou entre 
 
 Ramo Estudantil IEEE UNESP Bauru
 
-📧 **Email:** [ieee-unesp@example.com](mailto:ieee-unesp@example.com) 
-📸 **Instagram** [@ieeeunespbauru](https://www.instagram.com/ieeeunespbauru/) 
-🌐 **Linkedin:** [Ramo Estudantil IEEE Unesp Bauru](https://www.linkedin.com/in/ramo-estudantil-ieee-unesp-bauru-67a81014b/) 
+📧 **Email:** [ieee-unesp@example.com](mailto:ieee-unesp@example.com)   
+📸 **Instagram** [@ieeeunespbauru](https://www.instagram.com/ieeeunespbauru/)    
+🌐 **Linkedin:** [Ramo Estudantil IEEE Unesp Bauru](https://www.linkedin.com/in/ramo-estudantil-ieee-unesp-bauru-67a81014b/)   
 
 CS IEEE UNESP Bauru
 
