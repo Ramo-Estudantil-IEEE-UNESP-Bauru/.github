@@ -20,20 +20,24 @@ Explore nossos repositórios para acessar:
 Quer fazer parte? Tem alguma dúvida? Confira os projetos em andamento ou entre em contato conosco para colaborar! 
 
 Ramo Estudantil IEEE UNESP Bauru
+
 📧 **Email:** [ieee-unesp@example.com](mailto:ieee-unesp@example.com) 
 📸 **Instagram** [@ieeeunespbauru](https://www.instagram.com/ieeeunespbauru/)
 🌐 **Linkedin:** [Ramo Estudantil IEEE Unesp Bauru](https://www.linkedin.com/in/ramo-estudantil-ieee-unesp-bauru-67a81014b/) 
 
 CS IEEE UNESP Bauru
+
 📧 **Email:** [ieeecsbauru@gmail.com](mailto:ieeecsbauru@gmail.com)  
 📸 **Instagram** [@csunespbauru](https://www.instagram.com/csunespbauru/)
 
 RAS Estudantil IEEE UNESP Bauru
+
 📧 **Email:** [rasbaurunesp@gmail.com](mailto:rasbaurunesp@gmail.com)  
 📸 **Instagram** [@rasunespbauru](https://www.instagram.com/rasunespbauru/)
 🌐 **Linkedin:** [IEEE RAS UNESP Bauru](https://www.linkedin.com/company/ieee-ras-unesp-bauru/mycompany/) 
 
 WIE Estudantil IEEE UNESP Bauru
+
 📧 **Email:** [wie.unespbauru@gmail.com](mailto:wie.unespbauru@gmail.com)  
 📸 **Instagram** [@wieunespbauru](https://www.instagram.com/wieunespbauru/)
 🌐 **Linkedin:** [IEEE WIE Universidade Estadual Paulista - Campus Bauru](https://www.linkedin.com/company/wieunespbauru/?viewAsMember=true) 
